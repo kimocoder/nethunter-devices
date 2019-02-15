@@ -1,0 +1,2 @@
+on property:sys.post_boot.parsed=1
+    setprop vendor.post_boot.parsed 1
